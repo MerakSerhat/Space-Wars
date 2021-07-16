@@ -1,0 +1,159 @@
+
+portal_animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+heal
+  rotate: false
+  xy: 1, 837
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: 12
+heal
+  rotate: false
+  xy: 1, 652
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: 10
+heal
+  rotate: false
+  xy: 187, 838
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: 11
+heal
+  rotate: false
+  xy: 1, 466
+  size: 183, 184
+  orig: 183, 184
+  offset: 0, 0
+  index: 15
+heal
+  rotate: false
+  xy: 187, 653
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: 16
+heal
+  rotate: false
+  xy: 373, 837
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: 13
+heal
+  rotate: false
+  xy: 557, 839
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: 14
+heal
+  rotate: false
+  xy: 1, 282
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: 17
+heal
+  rotate: false
+  xy: 373, 655
+  size: 181, 180
+  orig: 181, 180
+  offset: 0, 0
+  index: 9
+heal
+  rotate: false
+  xy: 743, 841
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 18
+heal
+  rotate: false
+  xy: 1, 102
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: 19
+heal
+  rotate: false
+  xy: 1, 102
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: 20
+heal_001 kopya
+  rotate: false
+  xy: 1, 1
+  size: 102, 99
+  orig: 102, 99
+  offset: 0, 0
+  index: -1
+heal
+  rotate: false
+  xy: 557, 660
+  size: 178, 177
+  orig: 178, 177
+  offset: 0, 0
+  index: 8
+heal
+  rotate: false
+  xy: 737, 664
+  size: 174, 173
+  orig: 174, 173
+  offset: 0, 0
+  index: 7
+heal
+  rotate: false
+  xy: 556, 490
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: 6
+heal
+  rotate: false
+  xy: 727, 492
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: 21
+heal
+  rotate: false
+  xy: 182, 118
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: 5
+heal
+  rotate: false
+  xy: 373, 498
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: 4
+heal
+  rotate: false
+  xy: 727, 342
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: 22
+heal
+  rotate: false
+  xy: 877, 347
+  size: 144, 143
+  orig: 144, 143
+  offset: 0, 0
+  index: 3
+heal
+  rotate: false
+  xy: 877, 216
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: 2

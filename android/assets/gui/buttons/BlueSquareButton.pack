@@ -1,0 +1,26 @@
+
+BlueSquareButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BlueClicked8
+  rotate: false
+  xy: 1, 430
+  size: 419, 427
+  orig: 419, 427
+  offset: 0, 0
+  index: -1
+BlueHover5
+  rotate: false
+  xy: 1, 1
+  size: 419, 427
+  orig: 419, 427
+  offset: 0, 0
+  index: -1
+BlueNormal2
+  rotate: false
+  xy: 422, 430
+  size: 419, 427
+  orig: 419, 427
+  offset: 0, 0
+  index: -1
